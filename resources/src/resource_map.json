@@ -1,0 +1,18 @@
+{
+ "friendlyVersion": "0.1",
+ "versionDefName": "FONT_DEMO_RESOURCES",
+
+ "media": [
+     {"type":"font",
+      "defName":"MPBC_32",
+      "file":"fonts/mpbc_32.ttf"},
+     {"type":"font",
+      "defName":"MPC_32",
+      "file":"fonts/mpc_32.ttf"},
+  	{
+          "type": "png",
+          "defName": "IMAGE_MENU_ICON",
+          "file": "images/menu_icon_fuz.png"
+  	}
+	  ]
+}
